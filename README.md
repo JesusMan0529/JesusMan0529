@@ -3,13 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=%F0%9F%8C%9F+XJTUer.+%F0%9F%8E%93+Lifelong+Learner.;" alt="Profile Info"/>
 
   <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently Focus on Agentic SFT, RL, and Infra.</strong>
+    <strong>@我是一碗辛拉面</strong>
   </p>
 
   <p>
-    <strong>I'm currently planning to change my major to Software Engineering.</strong><br/>
-    <strong>Now studying in XJTU.</strong>
+    <strong>👋 I'm currently focusing on transferring to Software Engineering and learning Java &amp; Python tech stacks.</strong>
   </p>
 
   <p>
