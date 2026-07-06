@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=20&color=0078D7&center=true&width=900&pause=100000&lines=Hi,+I'm+%40%E6%88%91%E6%98%AF%E4%B8%80%E7%A2%97%E8%BE%9B%E6%8B%89%E9%9D%A2.+Beginner+in+AI+Application+Development+/+Agent+Development" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=0078D7&center=true&width=900&pause=100000&lines=Hi,+I'm+%40%E6%88%91%E6%98%AF%E4%B8%80%E7%A2%97%E8%BE%9B%E6%8B%89%E9%9D%A2.+Beginner+in+AI+Application+Development+/+Agent+Development" alt="Hi"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=18&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=%F0%9F%8C%9F+XJTUer.+%F0%9F%8E%93+Lifelong+Learner.;" alt="Profile Info"/>
 
   <p>
