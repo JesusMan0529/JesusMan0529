@@ -11,8 +11,12 @@
     <code>🏫 Xi'an Jiaotong University.</code>
   </p>
 
-  <p>
-    <a href="https://music.163.com/#/search/m/?s=JesusMan" style="text-decoration:none;">
+  <p align="center">
+    <a href="https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%98%AF%E4%B8%80%E7%A2%97%E8%BE%9B%E6%8B%89%E9%9D%A2">
+      <img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E6%88%91%E6%98%AF%E4%B8%80%E7%A2%97%E8%BE%9B%E6%8B%89%E9%9D%A2-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" alt="小红书"/>
+    </a>
+    &nbsp;
+    <a href="https://music.163.com/#/search/m/?s=JesusMan">
       <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-JesusMan-C20C0C?style=flat-square&logo=neteasemusic&logoColor=white" alt="网易云音乐"/>
     </a>
   </p>
