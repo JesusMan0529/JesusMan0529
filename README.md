@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>🐍 Python</td>
-    <td>AI application development, automation and rapid prototyping</td>
+    <td>AI application development</td>
   </tr>
   <tr>
     <td>🧠 CS Fundamentals</td>
