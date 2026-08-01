@@ -1,18 +1,118 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=0078D7&center=true&width=900&pause=100000&lines=Hi,+I'm+%40%E6%88%91%E6%98%AF%E4%B8%80%E7%A2%97%E8%BE%9B%E6%8B%89%E9%9D%A2.+Beginner+in+AI+Application+Development+/+Agent+Development" alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=18&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=%F0%9F%8C%9F+XJTUer.+%F0%9F%8E%93+Lifelong+Learner.;" alt="Profile Info"/>
 
-  <p>
-    <strong>👋 I'm currently focusing on transferring to Software Engineering and learning Java &amp; Python tech stacks.</strong>
-  </p>
+# Hi, I'm @我是一碗辛拉面 👋
 
-  <p>
-    <code>📍 Now Base in Xi'an, China.</code>
-    <code>🏫 Xi'an Jiaotong University.</code>
-  </p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=26&duration=3500&pause=1000&color=0078D7&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Software+Engineering+Undergraduate+%40+XJTU;Java+Backend+%26+Python+Developer;Exploring+AI+Applications%2C+RAG+and+Agents;Keep+Learning.+Keep+Building."
+  alt="Typing SVG"
+/>
 
-  <p align="center">
-    <a href="https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%98%AF%E4%B8%80%E7%A2%97%E8%BE%9B%E6%8B%89%E9%9D%A2"><img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E6%88%91%E6%98%AF%E4%B8%80%E7%A2%97%E8%BE%9B%E6%8B%89%E9%9D%A2-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" alt="小红书" /></a>&nbsp;
-    <a href="https://music.163.com/#/search/m/?s=JesusMan"><img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-JesusMan-C20C0C?style=flat-square&logo=neteasemusic&logoColor=white" alt="网易云音乐" /></a>
-  </p>
+<p>
+  <img
+    src="https://img.shields.io/badge/XJTU-Software%20Engineering-0078D7?style=flat-square"
+    alt="XJTU Software Engineering"
+  />
+  <img
+    src="https://img.shields.io/badge/Focus-Java%20Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white"
+    alt="Java Backend"
+  />
+  <img
+    src="https://img.shields.io/badge/Exploring-AI%20Applications-6C63FF?style=flat-square&logo=openai&logoColor=white"
+    alt="AI Applications"
+  />
+  <img
+    src="https://img.shields.io/badge/Location-Xi'an%2C%20China-20B2AA?style=flat-square&logo=googlemaps&logoColor=white"
+    alt="Xi'an, China"
+  />
+</p>
+
 </div>
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering undergraduate at **Xi'an Jiaotong University**
+- ☕ Focusing on **Java backend development**
+- 🐍 Using **Python** to build AI applications and development tools
+- 🤖 Exploring **LLM applications, RAG and Agent development**
+- 📚 Learning data structures, databases, operating systems and computer networks
+- 🎯 Interested in **Backend Development and AI Application Engineering**
+- 📍 Currently based in **Xi'an, China**
+
+## 🚀 Current Focus
+
+<table>
+  <tr>
+    <td>☕ Java Backend</td>
+    <td>Spring Boot, MyBatis, MySQL, Redis and RESTful APIs</td>
+  </tr>
+  <tr>
+    <td>🤖 AI Applications</td>
+    <td>LLM APIs, Prompt Engineering, RAG and Agent workflows</td>
+  </tr>
+  <tr>
+    <td>🐍 Python</td>
+    <td>AI application development, automation and rapid prototyping</td>
+  </tr>
+  <tr>
+    <td>🧠 CS Fundamentals</td>
+    <td>Data structures, algorithms, databases, networks and operating systems</td>
+  </tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=java,py,spring,maven,mysql,redis,docker,linux,git,github,idea,pycharm,vscode,postman&perline=7"
+  alt="Tech Stack"
+/>
+
+</div>
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-Primary-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Secondary-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend Development
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### AI Application Development
+
+![LLM](https://img.shields.io/badge/LLM-Applications-6C63FF?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Exploring-8A2BE2?style=flat-square)
+![Agent](https://img.shields.io/badge/AI%20Agent-Exploring-FF6F00?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-Learning-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+## 📖 Learning Roadmap
+
+```text
+Java Backend
+├── Java SE
+├── Maven
+├── MySQL
+├── Spring Boot
+├── MyBatis
+├── Redis
+├── Docker
+├── Microservices
+└── Distributed Systems
+
+AI Application Development
+├── Python
+├── LLM APIs
+├── Prompt Engineering
+├── Embedding
+├── RAG
+├── LangChain
+├── LangGraph
+└── Agent Development
