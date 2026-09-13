@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm @我是一碗辛拉面 👋
+# Hi, I'm @JesusMan0529 👋
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=26&duration=3500&pause=1000&color=0078D7&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Software+Engineering+Undergraduate+%40+XJTU;Java+Backend+%26+Python+Developer;Exploring+AI+Applications%2C+RAG+and+Agents;Keep+Learning.+Keep+Building."
