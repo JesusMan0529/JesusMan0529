@@ -3,8 +3,8 @@
 # Hi, I'm @JesusMan0529 👋
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=26&duration=3500&pause=1000&color=0078D7&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Software+Engineering+Undergraduate+%40+XJTU;Java+Backend+%26+Python+Developer;Exploring+AI+Applications%2C+RAG+and+Agents;Keep+Learning.+Keep+Building."
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&amp;weight=700&amp;size=26&amp;duration=3500&amp;pause=1000&amp;color=0078D7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=70&amp;lines=Software+Engineering+Undergraduate+%40+XJTU;Building+Foundations+in+Machine+Learning;Exploring+LLMs+for+Search+%26+Recommendation;Keep+Learning.+Keep+Building."
+  alt="Software Engineering at XJTU; learning machine learning and exploring LLMs for search and recommendation"
 />
 
 <p>
@@ -13,99 +13,83 @@
     alt="XJTU Software Engineering"
   />
   <img
-    src="https://img.shields.io/badge/Focus-Java%20Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white"
-    alt="Java Backend"
+    src="https://img.shields.io/badge/Focus-Search%20%2F%20Rec%20%2F%20Ads-009688?style=flat-square"
+    alt="Focus: Search, Recommendation and Advertising"
   />
   <img
-    src="https://img.shields.io/badge/Exploring-AI%20Applications-6C63FF?style=flat-square&logo=openai&logoColor=white"
-    alt="AI Applications"
+    src="https://img.shields.io/badge/Exploring-LLMs-6C63FF?style=flat-square"
+    alt="Exploring LLMs"
   />
   <img
-    src="https://img.shields.io/badge/Location-Xi'an%2C%20China-20B2AA?style=flat-square&logo=googlemaps&logoColor=white"
+    src="https://img.shields.io/badge/Location-Xi'an%2C%20China-20B2AA?style=flat-square"
     alt="Xi'an, China"
   />
 </p>
+
+**Learning toward LLM-powered search and recommendation.**
 
 </div>
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering undergraduate at **Xi'an Jiaotong University**
-- ☕ Focusing on **Java backend development**
-- 🐍 Using **Python** to build AI applications and development tools
-- 🤖 Exploring **LLM applications, RAG and Agent development**
-- 📚 Learning data structures, databases, operating systems and computer networks
-- 🎯 Interested in **Backend Development and AI Application Engineering**
-- 📍 Currently based in **Xi'an, China**
+- 🎓 Software Engineering undergraduate at **Xi'an Jiaotong University**.
+- 🧭 Long-term focus: **LLMs × Search, Recommendation & Advertising**.
+- 🌱 Currently strengthening my foundations in **Python, mathematics, data structures and machine learning**.
+- ⚙️ Planning to specialize in **AI Infrastructure**, with an interest in machine learning systems and parallel & distributed computing.
+- 🛠️ My project experience includes **Java backend development, Python-based AI applications and dataset preparation**.
 
-## 🚀 Current Focus
+## 🔭 Interests
 
-<table>
-  <tr>
-    <td>☕ Java Backend</td>
-    <td>Spring Boot, MyBatis, MySQL, Redis and RESTful APIs</td>
-  </tr>
-  <tr>
-    <td>🤖 AI Applications</td>
-    <td>LLM APIs, Prompt Engineering, RAG and Agent workflows</td>
-  </tr>
-  <tr>
-    <td>🐍 Python</td>
-    <td>AI application development</td>
-  </tr>
-  <tr>
-    <td>🧠 CS Fundamentals</td>
-    <td>Data structures, algorithms, databases, networks and operating systems</td>
-  </tr>
-</table>
+| Area | Topics I want to explore |
+| --- | --- |
+| **Search & Ranking** | Information retrieval, embeddings, retrieval pipelines and learning to rank |
+| **Recommendation & Ads** | User modeling, recommender systems and CTR/CVR prediction |
+| **LLMs for Search & Recommendation** | AI search, generative recommendation, LLM-based ranking and post-training for search & recommendation |
+| **ML Systems & Infrastructure** | Training and inference systems, parallel computing and distributed systems |
 
-## 🛠️ Tech Stack
+## 🌱 Learning Path
+
+I'm working through the foundations step by step, then building toward the areas above.
+
+| Stage | Focus | Status |
+| --- | --- | --- |
+| **Foundations** | Python, data structures & algorithms, essential linear algebra, calculus and probability | Building now |
+| **Data & Machine Learning** | NumPy, pandas, Matplotlib, scikit-learn, baseline models and evaluation | Near-term focus |
+| **Deep Learning** | PyTorch, neural networks, NLP and Transformers | Next stage |
+| **Search, Recommendation & Ads** | Retrieval, ranking, user modeling, CTR/CVR prediction and reproducible experiments | Planned |
+| **LLM Integration** | AI search, generative recommendation, LLM ranking and task-specific post-training | Long-term direction |
+
+Alongside this path, I plan to study **machine learning systems, parallel & distributed computing and modern AI infrastructure**.
+
+## 🚀 Selected Projects
+
+| Project | What it covers | Technologies |
+| --- | --- | --- |
+| [**Financial LLM Evaluation Dataset**](https://github.com/JesusMan0529/Financial_Evaluation_Dataset) | Public-source data preparation for financial LLM evaluation: filtering, deduplication, structured exports and source traceability | Python, CSV, JSONL |
+| [**FoodSwift · 食速达**](https://github.com/JesusMan0529/foodswift) | Campus food-ordering project with a WeChat mini program, merchant dashboard, order management and real-time notifications | Java, Spring Boot, MyBatis, MySQL, Redis |
+| [**Campus Assistant · 交晓智**](https://github.com/JesusMan0529/campus_assistant) | Campus AI assistant with streaming responses, configurable models and local conversation history | Python, Streamlit, OpenAI-compatible APIs |
+| [**Aliyun OSS Starter**](https://github.com/JesusMan0529/aliyun-oss-starter) | Spring Boot starter for OSS uploads, with auto-configuration, date-based directories and UUID filenames | Java, Spring Boot, Maven, Aliyun OSS |
+
+## 🛠️ Tools I've Used
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=java,py,spring,maven,mysql,redis,docker,linux,git,github,idea,pycharm,vscode,postman&perline=7"
-  alt="Tech Stack"
+  src="https://skillicons.dev/icons?i=py,java,spring,maven,mysql,redis,git,github&amp;perline=8"
+  alt="Python, Java, Spring, Maven, MySQL, Redis, Git and GitHub"
 />
 
 </div>
 
-### Languages
+- **Python & data:** Python, Streamlit, CSV / JSONL and OpenAI-compatible APIs.
+- **Backend:** Java, Spring Boot, MyBatis, MySQL, Redis and Maven.
+- **Development tools:** Git, GitHub, IntelliJ IDEA and PyCharm.
 
-![Java](https://img.shields.io/badge/Java-Primary-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Secondary-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-### Backend Development
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-### AI Application Development
-
-![LLM](https://img.shields.io/badge/LLM-Applications-6C63FF?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Exploring-8A2BE2?style=flat-square)
-![Agent](https://img.shields.io/badge/AI%20Agent-Exploring-FF6F00?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-Learning-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-## 📖 Learning Roadmap
-
-```text
-Java Backend
-├── Java SE
-├── Maven
-├── MySQL
-├── Spring Boot
-├── MyBatis
-├── Redis
-├── Docker
-├── Microservices
-└── Distributed Systems
+<p align="center">
+  <em>Keep learning. Build things. Understand how they work.</em>
+</p>
 
 AI Application Development
 ├── Python
