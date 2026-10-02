@@ -90,13 +90,3 @@ Alongside this path, I plan to study **machine learning systems, parallel & dist
 <p align="center">
   <em>Keep learning. Build things. Understand how they work.</em>
 </p>
-
-AI Application Development
-├── Python
-├── LLM APIs
-├── Prompt Engineering
-├── Embedding
-├── RAG
-├── LangChain
-├── LangGraph
-└── Agent Development
