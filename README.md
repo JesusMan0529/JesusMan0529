@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm @JesusMan0529 👋
+# Hi, I'm @JesusMan0529 😄
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&amp;weight=700&amp;size=26&amp;duration=3500&amp;pause=1000&amp;color=0078D7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=70&amp;lines=Software+Engineering+Undergraduate+%40+XJTU;Building+Foundations+in+Machine+Learning;Exploring+LLMs+for+Search+%26+Recommendation;Keep+Learning.+Keep+Building."
