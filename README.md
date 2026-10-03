@@ -32,8 +32,8 @@
 
 ## 👨‍💻 About Me
 
+- 🖥️ Apache TLP Contributor.
 - 🎓 Software Engineering undergraduate at **Xi'an Jiaotong University**.
-- 🖥️ **Apache TLP** Contributor.
 - 🧭 Long-term focus: **LLMs × Search, Recommendation & Advertising**.
 - 🌱 Currently strengthening my foundations in **Python, mathematics, data structures and machine learning**.
 - ⚙️ Planning to specialize in **AI Infrastructure**, with an interest in machine learning systems and parallel & distributed computing.
