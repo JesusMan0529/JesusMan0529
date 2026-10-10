@@ -33,8 +33,9 @@
 ## 👨‍💻 About Me
 
 - 🖥️ Apache TLP contributor.
-- 🎓 Software Engineering undergraduate at **Xi'an Jiaotong University**.
 - 🧭 Long-term focus: **LLMs × Search, Recommendation & Advertising**.
+- 🔬 ORCID: [0009-0003-7310-9883](https://orcid.org/0009-0003-7310-9883)
+- 🎓 Software Engineering undergraduate at **Xi'an Jiaotong University**.
 - 🌱 Currently strengthening my foundations in **Python, mathematics, data structures and machine learning**.
 - ⚙️ Planning to specialize in **AI Infrastructure**, with an interest in machine learning systems and parallel & distributed computing.
 - 🛠️ My project experience includes **Java backend development, Python-based AI applications and dataset preparation**.
